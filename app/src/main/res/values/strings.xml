@@ -4,5 +4,8 @@
     <string name="app_name">Upper Lumus</string>
     <string name="hello_world">Lumus!!!</string>
     <string name="action_settings">Ajustes</string>
+    <string name="notificacion_flash_no_soportado">Flash no Soportado</string>
+    <string name="notificacion_error_flash">Hubo un error con el Flash</string>
+    <string name="notificacion_error_aplicacion">Hubo un error con la Aplicacion</string>
 
 </resources>
